@@ -1,0 +1,33 @@
+body{
+    background-color:azure
+}
+.goomba_exp{
+    color:rgb(121, 1, 1);
+    font-size: 25px;
+}
+.Mario_exp{
+    color:rgb(215, 76, 76);
+    font-size: 25px;
+}
+.Peach_exp{
+    color:rgb(250, 34, 250);
+    font-size: 25px;
+}
+.Luigi_exp{
+    color:rgb(7, 130, 89);
+    font-size: 25px;
+}
+.Bowser_exp{
+    color:rgb(180, 180, 20);
+    font-size: 25px;
+}
+.Toad_exp{
+    color:rgb(121, 121, 86);
+    font-size: 25px;
+}
+.text{
+    font-size:large;
+}
+.title{
+    font-size: 40px;
+}
